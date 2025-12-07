@@ -1,4 +1,4 @@
-Hello, I'm Andrew Gossen
+Hello, I'm Andrew Gossen!
  Portfolio -> https://seabass-bassoon-lj7y.squarespace.com/
  Access code : andrew 
 
