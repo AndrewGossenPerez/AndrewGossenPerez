@@ -1,6 +1,5 @@
 Hello, I'm Andrew Gossen!
 ---
-Software Engineering Student at UoA. Main languages include C++ and Python. 
 
 
 <!---
